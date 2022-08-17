@@ -1,16 +1,46 @@
-### Hi there 👋
+<h1>Full-stack developer</h1>
 
-<!--
-**Viskhan-95/Viskhan-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Стек:</h2>
 
-Here are some ideas to get you started:
+- C#
+- OOP
+- Алгоритмы и структуры данных
+- JavaScript
+- React
+- React router
+- React router dom
+- Redux
+- Redux Toolkit
+- Bootstrap
+- Node JS
+- Webpack
+- Express
+- Mongoose
+- MongoDB
+- SQLite
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+***
+## Мои проекты:
+
+
+* #### web-сайт автотюнинга: 
+
+[client-code](https://github.com/Viskhan-95/AutoTuningFrontend)
+
+[backend-code](https://github.com/Viskhan-95/AutoTuningBackend)
+
+***
+
+
+* #### Медицинская клиника: пользователи могут получить медицинскую консультацию записавшись на прием к врачу или на телемедицинсккую видеоконсультацию.
+
+[client-code](https://github.com/Viskhan-95/Hospital_Frontend)
+
+[backend-code](https://github.com/Viskhan-95/Hospital_Backend)
+
+
+***
+## Связь со мной: 
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/viskhan1987)
