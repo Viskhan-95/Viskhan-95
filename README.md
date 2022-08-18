@@ -1,5 +1,4 @@
-<h1 align="center">Приветствую вас! Меня зовут Висхан, я Fullstack-разработчик
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Приветствую вас! Меня зовут Висхан, я Fullstack-разработчик</h1>
 
 ## Стэк, с которым я работал
 
@@ -15,7 +14,7 @@
 
 ***
 
-### ![trophy](https://github-profile-trophy.vercel.app/?username=Viskhan-95&no-bg=true&row=1&margin-w=15)
+<div align="center"> ![trophy](https://github-profile-trophy.vercel.app/?username=Viskhan-95&no-bg=true&row=1&margin-w=15) </div>
 
 ## Связь со мной: 
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/viskhan1987)
