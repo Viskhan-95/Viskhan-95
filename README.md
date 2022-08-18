@@ -10,8 +10,7 @@
 
 <h2>Коммандные проекты, где я участвовал:</h2>
 
-* #### web-сайт автотюнинга 
- [client-code](https://github.com/Viskhan-95/AutoTuningFrontend)
+* #### web-сайт автотюнинга: [client-code](https://github.com/Viskhan-95/AutoTuningFrontend)
 
 * #### Медицинская клиника: пользователи могут получить медицинскую консультацию записавшись на прием к врачу или на телемедицинсккую видеоконсультацию. [client-code](https://github.com/Viskhan-95/Hospital_Frontend)
 
