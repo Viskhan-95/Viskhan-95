@@ -1,6 +1,5 @@
 <h1 align="center">Приветствую вас! Меня зовут Висхан, я Fullstack-разработчик
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-***
 
 ## Связь со мной: [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/viskhan1987)
 
