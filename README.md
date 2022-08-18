@@ -14,7 +14,7 @@
 
 ***
 
-<div align="center"> ![trophy](https://github-profile-trophy.vercel.app/?username=Viskhan-95&no-bg=true&row=1&margin-w=15) </div>
+![trophy](https://github-profile-trophy.vercel.app/?username=Viskhan-95&no-bg=true&row=1&margin-w=15&align-center)
 
 ## Связь со мной: 
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/viskhan1987)
