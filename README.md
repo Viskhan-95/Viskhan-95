@@ -15,7 +15,7 @@
 
 ***
 
-### ![trophy](https://github-profile-trophy.vercel.app/?username=Viskhan-95&no-bg=true&column=7&margin-w=15R&margin-h=100R)
+### ![trophy](https://github-profile-trophy.vercel.app/?username=Viskhan-95&no-bg=true&column=7&margin-w=15&margin-h=100)
 
 
 ## Связь со мной: 
