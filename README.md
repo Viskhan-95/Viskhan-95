@@ -12,9 +12,8 @@
 * #### web-сайт автотюнинга: [client-code](https://github.com/Viskhan-95/AutoTuningFrontend)
 
 * #### Медицинская клиника: пользователи могут получить медицинскую консультацию записавшись на прием к врачу или на телемедицинсккую видеоконсультацию. [client-code](https://github.com/Viskhan-95/Hospital_Frontend)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Viskhan-95&theme=monokai)
-![trophy](https://github-profile-trophy.vercel.app/?username=Viskhan-95&no-bg=true)
+* 
+![trophy](https://github-profile-trophy.vercel.app/?username=Viskhan-95&no-bg=true, w-100%)
 
 
 ## Связь со мной: 
