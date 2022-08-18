@@ -13,6 +13,8 @@
 
 * #### Медицинская клиника: пользователи могут получить медицинскую консультацию записавшись на прием к врачу или на телемедицинсккую видеоконсультацию. [client-code](https://github.com/Viskhan-95/Hospital_Frontend)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Viskhan-95](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## Связь со мной: 
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/viskhan1987)
