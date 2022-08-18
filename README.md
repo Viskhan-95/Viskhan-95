@@ -40,12 +40,8 @@
 
 [client-code](https://github.com/Viskhan-95/AutoTuningFrontend)
 
-[backend-code](https://github.com/Viskhan-95/AutoTuningBackend)
-
 ***
 
 * #### Медицинская клиника: пользователи могут получить медицинскую консультацию записавшись на прием к врачу или на телемедицинсккую видеоконсультацию.
 
 [client-code](https://github.com/Viskhan-95/Hospital_Frontend)
-
-[backend-code](https://github.com/Viskhan-95/Hospital_Backend)
